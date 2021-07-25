@@ -1,0 +1,20 @@
+:root {
+    --color-azul: #1f87c4;
+  }
+  
+  body {
+    background: url("../img/cielo.jpg");
+    background-attachment: fixed;
+  }
+  
+  #logo {
+    background: var(--color-azul);
+  }
+  
+  #menu ul li:hover {
+    background: var(--color-azul);
+  }
+  
+  .button-more {
+    background: var(--color-azul);
+  }

@@ -1,0 +1,20 @@
+:root {
+  --color-verde: #235e3d;
+}
+
+body {
+  background: url("../img/hojas.jpg");
+  background-attachment: fixed;
+}
+
+#logo {
+  background: var(--color-verde);
+}
+
+#menu ul li:hover {
+  background: var(--color-verde);
+}
+
+.button-more {
+  background: var(--color-verde);
+}
